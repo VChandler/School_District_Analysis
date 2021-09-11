@@ -6,7 +6,8 @@ An analysis was completed earlier of the school district's state-testing standar
 * How is the district summary affected?  
 Overall, the district saw a slight decrease in average math scores (.1 pct point), % passing math (.2 pct point), % passing reading (.1 pct point), and % overall passing (.3 pct point).  Before removing the suspect grades:  
 ![district-before](https://user-images.githubusercontent.com/88070999/132957251-433dbe59-4606-4e8e-b0cb-83aa7d357ed7.png)  
-After:  ![district-after](https://user-images.githubusercontent.com/88070999/132957255-0c34984c-e945-4760-a044-4a221ef6c901.png)  
+After:  
+![district-after](https://user-images.githubusercontent.com/88070999/132957255-0c34984c-e945-4760-a044-4a221ef6c901.png)  
 
 * How is the school summary affected?  
 The school summary showed a decrease in numbers for Thomas High School only:  
